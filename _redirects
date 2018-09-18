@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://athor.netlify.com/* http://athor.io/:splat 301!
