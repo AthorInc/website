@@ -2,6 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
+  	name: 'Athor',
     title: 'Introducing Books 3.0 (and beyond)',
     description: 'Join our newsletter to get updates',
     keywords: 'books, web3.0, blockchain, stellar, payments, cross, borders, nofees, publishing, creators'
