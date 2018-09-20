@@ -34,6 +34,7 @@ const Layout = ({ children }) => (
           meta={[
             { name: 'description', content: data.site.siteMetadata.description },
             { name: 'keywords', content: data.site.siteMetadata.keywords },
+            { name: 'google-site-verification', content: 'XH83npz9XcmhH_G0qgMcI2_bmCSKF1RaZ0LZG8hVkVY' }
           ]}
           bodyAttributes={{
             class: 'theme-dark io-zinnia',
