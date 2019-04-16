@@ -3,8 +3,8 @@ const path = require('path')
 module.exports = {
   siteMetadata: {
   	name: 'Athor',
-    title: 'Introducing Books 3.0 (and beyond)',
-    description: 'Join our newsletter to get updates',
+    title: 'Introducing Books 3.0',
+    description: 'Athor Inc.',
     keywords: 'books, web3.0, blockchain, stellar, payments, cross, borders, nofees, publishing, creators'
   },
   plugins: [

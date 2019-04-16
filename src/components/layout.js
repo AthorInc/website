@@ -5,7 +5,7 @@ import { StaticQuery, graphql } from 'gatsby'
 
 import Header from 'components/Header/header'
 // import Footer from 'components/footer'
-import PhotoBadge from 'components/photo-badge'
+// import PhotoBadge from 'components/photo-badge'
 
 import 'bootstrap/dist/css/bootstrap.css';
 import 'src/assets/css/index.css'
@@ -51,7 +51,6 @@ const Layout = ({ children }) => (
           ]}
         />
         <Header siteTitle={data.site.siteMetadata.title} />
-        <PhotoBadge />
       </>
     )}
   />

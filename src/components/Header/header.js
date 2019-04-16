@@ -14,10 +14,7 @@ const Header = ({ siteTitle }) => (
 		<header className="site-header is-sticky">
 
 			<div className="navbar navbar-full navbar-expand-lg is-transparent" id="mainnav">
-				<a className="navbar-brand" href="./">
-					<img className="logo logo-dark" alt="logo" src={logoDark} srcSet={logoDark2x + ' 2x'} />
-					<img className="logo logo-light" alt="logo" src={logoLight} srcSet={logoLight2x + ' 2x'} />
-				</a>
+				
 
 				{ /* <Navigation /> */ }
 
